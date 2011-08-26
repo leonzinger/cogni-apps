@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c92fa50-aeb3-4bea-9378-a057496e2aea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instructions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stroop_assessment.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/not-signed.html" afterPath="$PROJECT_DIR$/not-signed.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/signed-in.html" afterPath="$PROJECT_DIR$/signed-in.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instructions.html" afterPath="$PROJECT_DIR$/instructions.html" />
     </list>
     <ignored path="cogni-apps.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,7 +31,16 @@
       <file leaf-file-name="instructions.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/instructions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="45" selection-start="2033" selection-end="2033" vertical-scroll-proportion="-14.576923">
+            <state line="35" column="29" selection-start="1341" selection-end="1341" vertical-scroll-proportion="-22.884615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stroop_assessment.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stroop_assessment.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="28" selection-start="1920" selection-end="1925" vertical-scroll-proportion="-18.5">
               <folding />
             </state>
           </provider>
@@ -41,16 +49,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="414" column="23" selection-start="9409" selection-end="9409" vertical-scroll-proportion="0.4781582">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="not-signed.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/not-signed.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="17" selection-start="2852" selection-end="2940" vertical-scroll-proportion="-21.576923">
+            <state line="447" column="13" selection-start="10094" selection-end="10094" vertical-scroll-proportion="0.45808735">
               <folding />
             </state>
           </provider>
@@ -74,6 +73,7 @@
         <option value="$PROJECT_DIR$/signed-in.html" />
         <option value="$PROJECT_DIR$/not-signed.html" />
         <option value="$PROJECT_DIR$/instructions.html" />
+        <option value="$PROJECT_DIR$/stroop_assessment.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
@@ -252,21 +252,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/not-signed.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="17" selection-start="2852" selection-end="2940" vertical-scroll-proportion="-21.576923">
+        <state line="81" column="17" selection-start="2852" selection-end="2940" vertical-scroll-proportion="0.683313">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/instructions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="45" selection-start="2033" selection-end="2033" vertical-scroll-proportion="-14.576923">
+        <state line="35" column="29" selection-start="1341" selection-end="1341" vertical-scroll-proportion="-22.884615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stroop_assessment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="28" selection-start="1920" selection-end="1925" vertical-scroll-proportion="-18.5">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="414" column="23" selection-start="9409" selection-end="9409" vertical-scroll-proportion="0.4781582">
+        <state line="447" column="13" selection-start="10094" selection-end="10094" vertical-scroll-proportion="0.45808735">
           <folding />
         </state>
       </provider>
