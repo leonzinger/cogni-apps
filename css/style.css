@@ -286,7 +286,7 @@ section.main h1{
 section.main.page article .btn{
     margin: 20px 0 20px 145px;
 }
- section.main p{
+section.main p{
 	color:#505050;
 	margin-top:15px;
 	font-size:14px;
@@ -458,6 +458,30 @@ section.apps .boxes .red{
 }
 section.apps .boxes .green{
     background: green;
+}
+.register form label{
+    width:130px;
+    float:left;
+    clear:left;
+}
+.register form .checkbox{
+    display:block;
+    line-height: 25px;
+    margin: 10px 0;
+}
+.register form input[type=text]{
+    border: none;
+    background: white;
+    display:block;
+    width:340px;
+    height:25px;
+    line-height: 25px;
+    padding: 0 5px;
+    margin: 10px 0;
+}
+.register form input[type=checkbox], .register form input[type=radio]{
+	margin:15px 0;
+	display:inline-block;
 }
 article{
 	width: 485px;
